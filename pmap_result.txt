@@ -1,0 +1,147 @@
+1:   /sbin/init maybe-ubiquity
+00005580be019000   1340K r-x-- systemd
+00005580be367000    236K r---- systemd
+00005580be3a2000      4K rw--- systemd
+00005580bfc25000   1608K rw---   [ anon ]
+00007ff816043000   1652K r-x-- libm-2.27.so
+00007ff8161e0000   2044K ----- libm-2.27.so
+00007ff8163df000      4K r---- libm-2.27.so
+00007ff8163e0000      4K rw--- libm-2.27.so
+00007ff8163e1000    116K r-x-- libudev.so.1.6.9
+00007ff8163fe000   2044K ----- libudev.so.1.6.9
+00007ff8165fd000      4K r---- libudev.so.1.6.9
+00007ff8165fe000      4K rw--- libudev.so.1.6.9
+00007ff8165ff000     80K r-x-- libgpg-error.so.0.22.0
+00007ff816613000   2044K ----- libgpg-error.so.0.22.0
+00007ff816812000      4K r---- libgpg-error.so.0.22.0
+00007ff816813000      4K rw--- libgpg-error.so.0.22.0
+00007ff816814000     40K r-x-- libjson-c.so.3.0.1
+00007ff81681e000   2044K ----- libjson-c.so.3.0.1
+00007ff816a1d000      4K r---- libjson-c.so.3.0.1
+00007ff816a1e000      4K rw--- libjson-c.so.3.0.1
+00007ff816a1f000     32K r-x-- libargon2.so.0
+00007ff816a27000   2044K ----- libargon2.so.0
+00007ff816c26000      4K r---- libargon2.so.0
+00007ff816c27000      4K rw--- libargon2.so.0
+00007ff816c28000    408K r-x-- libdevmapper.so.1.02.1
+00007ff816c8e000   2044K ----- libdevmapper.so.1.02.1
+00007ff816e8d000      4K r---- libdevmapper.so.1.02.1
+00007ff816e8e000     16K rw--- libdevmapper.so.1.02.1
+00007ff816e92000      4K rw---   [ anon ]
+00007ff816e93000     16K r-x-- libattr.so.1.1.0
+00007ff816e97000   2044K ----- libattr.so.1.1.0
+00007ff817096000      4K r---- libattr.so.1.1.0
+00007ff817097000      4K rw--- libattr.so.1.1.0
+00007ff817098000     16K r-x-- libcap-ng.so.0.0.0
+00007ff81709c000   2044K ----- libcap-ng.so.0.0.0
+00007ff81729b000      4K r---- libcap-ng.so.0.0.0
+00007ff81729c000      4K rw--- libcap-ng.so.0.0.0
+00007ff81729d000     24K r-x-- libuuid.so.1.3.0
+00007ff8172a3000   2044K ----- libuuid.so.1.3.0
+00007ff8174a2000      4K r---- libuuid.so.1.3.0
+00007ff8174a3000      4K rw--- libuuid.so.1.3.0
+00007ff8174a4000     12K r-x-- libdl-2.27.so
+00007ff8174a7000   2044K ----- libdl-2.27.so
+00007ff8176a6000      4K r---- libdl-2.27.so
+00007ff8176a7000      4K rw--- libdl-2.27.so
+00007ff8176a8000    448K r-x-- libpcre.so.3.13.3
+00007ff817718000   2048K ----- libpcre.so.3.13.3
+00007ff817918000      4K r---- libpcre.so.3.13.3
+00007ff817919000      4K rw--- libpcre.so.3.13.3
+00007ff81791a000    104K r-x-- libpthread-2.27.so
+00007ff817934000   2044K ----- libpthread-2.27.so
+00007ff817b33000      4K r---- libpthread-2.27.so
+00007ff817b34000      4K rw--- libpthread-2.27.so
+00007ff817b35000     16K rw---   [ anon ]
+00007ff817b39000    108K r-x-- liblz4.so.1.7.1
+00007ff817b54000   2044K ----- liblz4.so.1.7.1
+00007ff817d53000      4K r---- liblz4.so.1.7.1
+00007ff817d54000      4K rw--- liblz4.so.1.7.1
+00007ff817d55000    144K r-x-- liblzma.so.5.2.2
+00007ff817d79000   2048K ----- liblzma.so.5.2.2
+00007ff817f79000      4K r---- liblzma.so.5.2.2
+00007ff817f7a000      4K rw--- liblzma.so.5.2.2
+00007ff817f7b000    200K r-x-- libidn.so.11.6.16
+00007ff817fad000   2044K ----- libidn.so.11.6.16
+00007ff8181ac000      4K r---- libidn.so.11.6.16
+00007ff8181ad000      4K rw--- libidn.so.11.6.16
+00007ff8181ae000     24K r-x-- libip4tc.so.0.1.0
+00007ff8181b4000   2044K ----- libip4tc.so.0.1.0
+00007ff8183b3000      4K r---- libip4tc.so.0.1.0
+00007ff8183b4000      4K rw--- libip4tc.so.0.1.0
+00007ff8183b5000   1104K r-x-- libgcrypt.so.20.2.1
+00007ff8184c9000   2048K ----- libgcrypt.so.20.2.1
+00007ff8186c9000      8K r---- libgcrypt.so.20.2.1
+00007ff8186cb000     20K rw--- libgcrypt.so.20.2.1
+00007ff8186d0000      4K rw---   [ anon ]
+00007ff8186d1000     16K r-x-- libcap.so.2.25
+00007ff8186d5000   2048K ----- libcap.so.2.25
+00007ff8188d5000      4K r---- libcap.so.2.25
+00007ff8188d6000      4K rw--- libcap.so.2.25
+00007ff8188d7000    292K r-x-- libcryptsetup.so.12.2.0
+00007ff818920000   2048K ----- libcryptsetup.so.12.2.0
+00007ff818b20000      4K r---- libcryptsetup.so.12.2.0
+00007ff818b21000      8K rw--- libcryptsetup.so.12.2.0
+00007ff818b23000     28K r-x-- libacl.so.1.1.0
+00007ff818b2a000   2044K ----- libacl.so.1.1.0
+00007ff818d29000      4K r---- libacl.so.1.1.0
+00007ff818d2a000      4K rw--- libacl.so.1.1.0
+00007ff818d2b000     60K r-x-- libapparmor.so.1.4.2
+00007ff818d3a000   2044K ----- libapparmor.so.1.4.2
+00007ff818f39000      4K r---- libapparmor.so.1.4.2
+00007ff818f3a000      4K rw--- libapparmor.so.1.4.2
+00007ff818f3b000     88K r-x-- libkmod.so.2.3.2
+00007ff818f51000   2044K ----- libkmod.so.2.3.2
+00007ff819150000      4K r---- libkmod.so.2.3.2
+00007ff819151000      4K rw--- libkmod.so.2.3.2
+00007ff819152000    116K r-x-- libaudit.so.1.0.0
+00007ff81916f000   2048K ----- libaudit.so.1.0.0
+00007ff81936f000      4K r---- libaudit.so.1.0.0
+00007ff819370000      4K rw--- libaudit.so.1.0.0
+00007ff819371000     40K rw---   [ anon ]
+00007ff81937b000     52K r-x-- libpam.so.0.83.1
+00007ff819388000   2044K ----- libpam.so.0.83.1
+00007ff819587000      4K r---- libpam.so.0.83.1
+00007ff819588000      4K rw--- libpam.so.0.83.1
+00007ff819589000    284K r-x-- libblkid.so.1.1.0
+00007ff8195d0000   2048K ----- libblkid.so.1.1.0
+00007ff8197d0000     16K r---- libblkid.so.1.1.0
+00007ff8197d4000      4K rw--- libblkid.so.1.1.0
+00007ff8197d5000      4K rw---   [ anon ]
+00007ff8197d6000    324K r-x-- libmount.so.1.1.0
+00007ff819827000   2044K ----- libmount.so.1.1.0
+00007ff819a26000      8K r---- libmount.so.1.1.0
+00007ff819a28000      4K rw--- libmount.so.1.1.0
+00007ff819a29000      4K rw---   [ anon ]
+00007ff819a2a000    148K r-x-- libselinux.so.1
+00007ff819a4f000   2044K ----- libselinux.so.1
+00007ff819c4e000      4K r---- libselinux.so.1
+00007ff819c4f000      4K rw--- libselinux.so.1
+00007ff819c50000      8K rw---   [ anon ]
+00007ff819c52000    188K r-x-- libseccomp.so.2.4.1
+00007ff819c81000   2048K ----- libseccomp.so.2.4.1
+00007ff819e81000     92K r---- libseccomp.so.2.4.1
+00007ff819e98000      4K rw--- libseccomp.so.2.4.1
+00007ff819e99000     28K r-x-- librt-2.27.so
+00007ff819ea0000   2044K ----- librt-2.27.so
+00007ff81a09f000      4K r---- librt-2.27.so
+00007ff81a0a0000      4K rw--- librt-2.27.so
+00007ff81a0a1000   1756K r-x-- libsystemd-shared-237.so
+00007ff81a258000   2044K ----- libsystemd-shared-237.so
+00007ff81a457000    552K r---- libsystemd-shared-237.so
+00007ff81a4e1000      4K rw--- libsystemd-shared-237.so
+00007ff81a4e2000      8K rw---   [ anon ]
+00007ff81a4e4000   1948K r-x-- libc-2.27.so
+00007ff81a6cb000   2048K ----- libc-2.27.so
+00007ff81a8cb000     16K r---- libc-2.27.so
+00007ff81a8cf000      8K rw--- libc-2.27.so
+00007ff81a8d1000     16K rw---   [ anon ]
+00007ff81a8d5000    156K r-x-- ld-2.27.so
+00007ff81aae6000     64K rw---   [ anon ]
+00007ff81aafc000      4K r---- ld-2.27.so
+00007ff81aafd000      4K rw--- ld-2.27.so
+00007ff81aafe000      4K rw---   [ anon ]
+00007ffeb54f6000    132K rw---   [ stack ]
+00007ffeb55a7000     12K r----   [ anon ]
+00007ffeb55aa000      8K r-x--   [ anon ]
+ffffffffff600000      4K r-x--   [ anon ]
